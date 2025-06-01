@@ -38,7 +38,7 @@ A classic Snake Game built using **HTML**, **CSS**, and **JavaScript**. The game
 > Movement prevents reversing directly into itself
 
 ## 🧠 Game Logic Overview
-![Uploading Screenshot (69).png…]()
+![Screenshot (69)](https://github.com/user-attachments/assets/7cd1e32a-b510-4c01-83e0-c6f2b8c4b37b)
 
 - **Snake Movement**: Controlled via arrow keys and `inputDirection` logic
 - **Collision Detection**: Ends game if snake hits wall or itself
